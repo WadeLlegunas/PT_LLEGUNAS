@@ -2,7 +2,7 @@
 <html>
 	<head>
 		<link rel="stylesheet" href="Style.css">
-			<title>Computer PT</title>
+			
 	</head>
 <body 
 	<div class=nav>
